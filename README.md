@@ -2,6 +2,8 @@
 
 Repositório do **Projeto 1 de Mecânica dos Fluidos**, dedicado ao estudo do escoamento laminar estacionário de Hagen–Poiseuille em um tubo cilíndrico, desde a modelagem física e dedução analítica até a formulação variacional e solução pelo **Método dos Elementos Finitos (MEF)** com **FEniCSx (`dolfinx`)**.
 
+> **Novo no projeto?** Leia o passo a passo completo em [**COMO_RODAR_PELA_PRIMEIRA_VEZ.md**](COMO_RODAR_PELA_PRIMEIRA_VEZ.md) para configurar o WSL/FEniCSx, abrir no VS Code e colaborar pelo GitHub.
+
 ---
 
 ## Estrutura do Repositório
